@@ -19,7 +19,6 @@
 #                                     Time tags in CDAWeb version were modified in March 2005 to use the
 #                                     CDAWeb convention of having mid-average time tags rather than OMNI's
 #                                     original convention of start-of-average time tags.
-#     LOGICAL_FILE_ID                 omni_hro_1min_00000000_v01
 #     PI_NAME                         J.H. King, N. Papatashvilli
 #     PI_AFFILIATION                  AdnetSystems, NASA GSFC
 #     GENERATION_DATE                 Ongoing
