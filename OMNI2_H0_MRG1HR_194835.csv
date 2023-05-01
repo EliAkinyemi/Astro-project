@@ -1,40 +1,4 @@
-#              ************************************
-#              *****    GLOBAL ATTRIBUTES    ******
-#              ************************************
-#
-#     PROJECT                         NSSDC
-#     DISCIPLINE                      Space Physics>Interplanetary Studies
-#     SOURCE_NAME                     OMNI (1AU IP Data)>Merged 1 Hour Interplantary OMNI data
-#     DATA_TYPE                       H0>Definitive Hourly
-#     DESCRIPTOR                      IMF Plasma Indices Energetic Proton Flux
-#     DATA_VERSION                    1
-#     TITLE                           Near-Earth Heliosphere Data (OMNI)
-#     TEXT                            Hourly averaged definitive multispacecraft interplanetary parameters data
-#     LOGICAL_FILE_ID                 omni2_h0_mrg1hr_00000000_v01
-#     PI_NAME                         J.H. King N. Papitashvili
-#     PI_AFFILIATION                  ADNET NASA GSFC
-#     GENERATION_DATE                 Ongoing
-#     ACKNOWLEDGEMENT                 NSSDC
-#     ADID_REF                        NSSD0110
-#     RULES_OF_USE                    Public
-#     INSTRUMENT_TYPE                 Plasma and Solar Wind
-#     GENERATED_BY                    King/Papitashvili
-#     TIME_RESOLUTION                 1 hour
-#     LOGICAL_SOURCE                  omni2_h0_mrg1hr
-#     LOGICAL_SOURCE_DESCRIPTION      OMNI Combined, Definitive, Hourly IMF and Plasma Data, and Energetic Proton                            
-#     LOGICAL_SOURCE_DESCRIPTION       Fluxes, Time-Shifted to the Nose of the Earth's Bow Shock, plus Solar and Magnetic                                                                                                           
-#     LINK_TITLE                      OMNI Data documentation
-#     HTTP_LINK                       https://omniweb.gsfc.nasa.gov/html/ow_data.html
-#     ALT_LOGICAL_SOURCE              Combined_OMNI_1AU-MagneticField-Plasma-Particles_mrg1hr_1hour_cdf
-#     MISSION_GROUP                   OMNI (Combined 1AU IP Data; Magnetic and Solar Indices)
-#     SPASE_DATASETRESOURCEID         spase://NASA/NumericalData/OMNI/PT1H
-#     CDAWEB_PARENTS                  omni2_h0_mrg1hr_00000000_v01
-#     CDFMAJOR                        COL_MAJOR
-#
-#              ************************************
-#              ****  RECORD VARYING VARIABLES  ****
-#              ************************************
-#
+
 #  1. Time_at_center_of_hour
 #  2. Kp - 3-hour Kp*10 (Kp=1-,1,1+ corresponds to 7,10,13), fromNGDC (1963/001-2023/117)
 #  3. Dst - 1-hour Dst index (1963/001-2014/366), Provisional Dst (2017/001-2021/365), Quick-look Dst (2022/001-2023/117), from WDC Kyoto
