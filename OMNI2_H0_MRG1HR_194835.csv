@@ -6,7 +6,7 @@
 #     DISCIPLINE                      Space Physics>Interplanetary Studies
 #     SOURCE_NAME                     OMNI (1AU IP Data)>Merged 1 Hour Interplantary OMNI data
 #     DATA_TYPE                       H0>Definitive Hourly
-#     DESCRIPTOR                      IMF, Plasma, Indices, Energetic Proton Flux
+#     DESCRIPTOR                      IMF Plasma Indices Energetic Proton Flux
 #     DATA_VERSION                    1
 #     TITLE                           Near-Earth Heliosphere Data (OMNI)
 #     TEXT                            Hourly averaged definitive multispacecraft interplanetary parameters data
