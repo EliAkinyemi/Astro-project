@@ -64,7 +64,7 @@
 #  2. Kp - 3-hour Kp*10 (Kp=1-,1,1+ corresponds to 7,10,13), fromNGDC (1963/001-2023/117)
 #  3. Dst - 1-hour Dst index (1963/001-2014/366), Provisional Dst (2017/001-2021/365), Quick-look Dst (2022/001-2023/117), from WDC Kyoto,,
 #,,,,,
-TIME_AT_CENTER_OF_HOUR_yyyy-mm-ddThh:mm:ss.sssZ,3-H_KP*10_,1-H_DST_nT,Time,,
+TIME_AT_CENTER_OF_HOUR_yyyy-mm-ddThh:mm:ss.sssZ,H_KP,H_DST,Time,,
 2003-11-20T00:30:00.000Z,10,-4,0:30,,
 2003-11-20T01:30:00.000Z,10,-6,1:30,,
 2003-11-20T02:30:00.000Z,10,-5,2:30,,
