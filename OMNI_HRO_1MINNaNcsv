@@ -1,12 +1,4 @@
 #,,,,,,,
-#  1. Epoch Time,,,,,,,
-#  2. Magnitude of avg. field vector (nT) (last currently-available OMNI B-field data Apr 11, 2023),,,,,,
-#  3. Bx (nT), GSE,,,,,,
-#  4. By (nT), GSE,,,,,,
-#  5. Bz (nT), GSE,,,,,,
-#  6. AE - 1-minute AE-index, from WDC Kyoto (Final 1988/001-1988/182, Provisional 1990/001-2019/090),,,,,
-#  7. SYM/H - 1-minute SYM/H index,from WDC Kyoto (1981/001-2023/090),,,,,,
-#,,,,,,,
 EPOCH_TIME,MAG_AVG_BT,BX__GSE_nT,BY__GSE_nT,BZ__GSE_nT,M_AE_nT,SYM/H_INDEX_nT,Time
 2003-11-20T00:00:00.000Z,6.79,-3.54,5.29,2.39,90,2,0:00
 2003-11-20T00:01:00.000Z,6.8,-3.72,4.97,2.74,50,1,0:01
